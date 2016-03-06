@@ -1,3 +1,9 @@
+/*
+James Stokes
+UKZN
+Tut3-Dice, Computer methods 3
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <time.h>
