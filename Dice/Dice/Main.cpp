@@ -59,7 +59,7 @@ public:
 	//calls the roll method to popualte the rollResults array
 	void setRollResults(int num) {
 		for (int i = 0; i < num; i++) {
-				this->rollResults[i] = this->roll();
+				rollResults[i] = roll();
 		}
 	}
 };
